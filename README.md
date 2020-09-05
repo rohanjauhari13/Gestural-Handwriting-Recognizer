@@ -4,3 +4,5 @@ English alphabets that are gestured in air in front of cam will be recognized us
 Dataset for CNN:https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
 To further improve the accuracy of prediction, include few self drawn(gesturally) images with the training set.
+
+No spatial positioning required.
