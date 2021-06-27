@@ -6,3 +6,5 @@ Dataset for CNN:https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in
 To further improve the accuracy of prediction, include few self drawn(gesturally) images with the training set.
 
 No spatial positioning required.
+
+The live working has been shown in Gesture.mp4 in repository
